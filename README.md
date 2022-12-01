@@ -1,6 +1,6 @@
 # rainfall
 
-This repository contains an analysis of git usage through time.
+This repository contains an analysis of rainfall in Oxford and Melbourne.
 To run this analysis use the following command:
 ```
 Rscript src/combine-data.R
