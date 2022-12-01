@@ -23,7 +23,7 @@ g <- ggplot(
   theme(axis.text.x = element_text(angle = -45))
 
 
-ggsave(filename = "output/result.png",
+ggsave(filename = "result.png",
        plot = g,
        height = 10.5, width = 14.8,
        units = "cm")
